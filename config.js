@@ -7,9 +7,9 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2349125932419']
-global.ownMain = '2349125932419'
-global.NamaOwner = 'KhalidM_dz' //gausah diganti
+global.owner = ['254762438764']
+global.ownMain = '254762438764'
+global.NamaOwner = 'Personified_dz' //gausah diganti
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'Tdx-Md' //ganti aj klo mau
